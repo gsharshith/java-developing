@@ -14,6 +14,7 @@ public static void main(String[] args) {
     //Default case statement  
     default:System.out.println("Not in 10, 20 or 30");  
     System.out.println("Sunil");
+    System.out.println("Anil");
     }  
 }  
 }  
