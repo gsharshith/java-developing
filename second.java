@@ -13,8 +13,8 @@ public static void main(String[] args) {
     break;  
     //Default case statement  
     default:System.out.println("Not in 10, 20 or 30");  
-    System.out.println("sunil");
-    System.out.println("madan")
+    System.out.println("sunilharshith");
+
     }  
 }  
 }  
